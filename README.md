@@ -1,1 +1,1 @@
-# grid-templates
+# Responsive grid templates
